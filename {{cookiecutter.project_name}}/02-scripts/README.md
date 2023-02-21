@@ -1,5 +1,4 @@
-# This directory contains the scripts used in the {{cookiecutter.project_name}} project
+## Overview of the folder `02-scripts`
 
-**TODO**: Please list your scripts and described what they do
-
-You can use the [Markdown syntax](https://www.markdownguide.org/basic-syntax/)  to organize your documentation.
+This folder contains all the workflows and scripts that are necessary to conduct the experiments of
+this project.
